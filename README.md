@@ -1,6 +1,6 @@
 # Pokedex
 
-Funcionamento
+#Funcionamento
 A função fetchPokemon(param) é uma função assíncrona que aceita um parâmetro param, que é o nome do Pokémon que você deseja buscar. A função faz uma solicitação assíncrona à API de Pokémon usando o nome fornecido, espera a resposta da API e, em seguida, converte a resposta em um objeto JavaScript usando .json().
 
 O código adiciona um ouvinte de eventos ao botão com o ID botao. Quando o botão é clicado, o código busca informações sobre o Pokémon cujo nome é fornecido no campo de entrada nomePokemon.
